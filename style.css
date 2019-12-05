@@ -1,0 +1,72 @@
+body{
+    font-family: "Trebuchet MS";
+    background: antiquewhite;
+}
+
+#spanMotAleatoire{
+    visibility: hidden;
+}
+
+#tirets{
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+#tirets p{
+    border-bottom: 1px solid black;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+}
+
+#spanLettresErreur{
+    font-weight: bold;
+    color: red;
+}
+
+#etape1{
+    visibility: hidden;
+}
+
+#etape2{
+    visibility: hidden;
+}
+
+#etape3{
+    visibility: hidden;
+}
+
+#etape4{
+    visibility: hidden;
+}
+
+#etape5{
+    visibility: hidden;
+}
+
+#etape6{
+    visibility: hidden;
+}
+
+#etape7{
+    visibility: hidden;
+}
+
+#etape8{
+    visibility: hidden;
+}
+
+#etape9{
+    visibility: hidden;
+}
+
+#etape10{
+    visibility: hidden;
+}
+
+#etape11{
+    visibility: hidden;
+}
